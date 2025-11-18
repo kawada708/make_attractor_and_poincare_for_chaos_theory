@@ -111,7 +111,7 @@ def main():
     y = data[:, 1]
     z = data[:, 2]
 
-    # 軸ラベル設定
+    # 軸ラベル
     print("\n軸ラベルを設定してください（空入力 でデフォルト）。")
 
     x_label = input("x軸ラベル（デフォルト: " + DEFAULT_X_LABEL + "）> ").strip()
@@ -158,3 +158,4 @@ def main():
 if __name__ == "__main__":
     plt.rcParams["font.family"] = "Times New Roman"
     main()
+
