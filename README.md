@@ -69,5 +69,6 @@ pip install numpy matplotlib
 
 ![.png](results/attractor_and_poincare_map.png)
 
-![fft_resul.png](results/Figure.png)
+![.png](results/attractor_and_poincare_map_2.png)
+
 
