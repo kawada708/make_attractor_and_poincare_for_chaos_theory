@@ -30,7 +30,7 @@
 - 軸ラベル（x, y, z）をユーザー入力で変更可能  
 - 断面の係数 a, b も入力で自由に設定可能  
 
----
+
 
 ## 必要なライブラリ
 
@@ -43,7 +43,7 @@ matplotlib
 ```bush
 pip install numpy matplotlib
 ```
----
+
 
 ## 使い方
  
@@ -54,7 +54,7 @@ pip install numpy matplotlib
 
 3. 3D アトラクタと 2D ポアンカレマップが表示されます。
 
----
+
 
 ##  入力データの形式
 
@@ -72,6 +72,7 @@ pip install numpy matplotlib
 ![.png](results/attractor_and_poincare_map.png)
 
 ![.png](results/attractor_and_poincare_map_2.png)
+
 
 
 
