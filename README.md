@@ -40,8 +40,9 @@ matplotlib
 
 インストール：
 
+```bush
 pip install numpy matplotlib
-
+```bush
 ---
 
 ## 使い方
@@ -60,15 +61,18 @@ pip install numpy matplotlib
 テキストファイル（.txt）で、  
 **空白区切り 3 列の数値データ**を入れてください：
 
+```bush
 0.123 0.456 0.789
 0.124 0.458 0.790
 0.125 0.460 0.791
+```bush
 
 ## 📊出力例
 
 ![.png](results/attractor_and_poincare_map.png)
 
 ![.png](results/attractor_and_poincare_map_2.png)
+
 
 
 
