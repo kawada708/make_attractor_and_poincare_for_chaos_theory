@@ -65,10 +65,10 @@ pip install numpy matplotlib
 0.125 0.460 0.791
 
 ## 📊出力例
-以下はレイリーベナール対流における流れ場が周期解/準周期解であった場合の結果です。
 
 ![.png](results/attractor_and_poincare_map.png)
 
 ![.png](results/attractor_and_poincare_map_2.png)
+
 
 
