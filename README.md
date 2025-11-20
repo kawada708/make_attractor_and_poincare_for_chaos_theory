@@ -24,7 +24,7 @@
   \[
   y = a x + b
   \]
-  を指定して、断面を通過した点を補間で取得  
+  を指定して、断面を通過した点を線形補間で取得  
 - 3Dアトラクタを描画  
 - ポアンカレマップ（2D 散布図）を作成  
 - 軸ラベル（x, y, z）をユーザー入力で変更可能  
@@ -72,6 +72,7 @@ pip install numpy matplotlib
 ![.png](results/attractor_and_poincare_map.png)
 
 ![.png](results/attractor_and_poincare_map_2.png)
+
 
 
 
